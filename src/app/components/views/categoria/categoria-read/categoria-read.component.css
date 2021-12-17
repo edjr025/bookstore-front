@@ -18,3 +18,24 @@
     width: 100%;
     
 }
+
+.edit{
+    color: rgb(247, 114, 19);
+}
+
+.delete{
+    color: rgb(226, 65, 65);
+    margin-left: .5rem;
+}
+
+.mat-header{
+    width: 5rem;
+}
+
+.book{
+    color: rgb(100, 145, 33);
+}
+
+button{
+    margin-bottom: .8rem;
+}
